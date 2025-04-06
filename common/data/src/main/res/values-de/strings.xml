@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<resources>
+    <string name="app_name">Smart Home</string>
+
+    <string name="main_title">Willkommen</string>
+    <string name="main_rooms">Räume</string>
+    <string name="main_loading">Daten werden geladen. Dies kann einige Sekunden dauern…</string>
+    <string name="main_empty_title">Keine Daten</string>
+    <string name="main_empty_text">Verfügbare Räume werden hier angezeigt.</string>
+    <string name="main_cert_info">Das SSL-Zertifikat des Server ist ungültig. Bitte validiere das Zertifikat um fortzufahren.</string>
+    <string name="main_cert_subject">Ausgestellt von:</string>
+    <string name="main_cert_issuer">Ausgestellt an:</string>
+    <string name="main_cert_valid">Gültig bis:</string>
+    <string name="main_cert_unknown">Kein Serverzertifikat verfügbar</string>
+    <string name="main_cert_untrust">Du musst dem Zertifikat vertrauen</string>
+    <string name="main_invalid_message">Es ist ein Fehler aufgetreten</string>
+    <string name="main_date">Um {arg} Uhr aktualisiert</string>
+
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_connection">Verbindung</string>
+    <string name="settings_connection_url">Server URL</string>
+    <string name="settings_connection_url_info">Server URL bearbeiten</string>
+    <string name="settings_connection_cert">Client-Zertifikat</string>
+    <string name="settings_connection_cert_info">Client-Zertifikat auswählen</string>
+    <string name="settings_connection_ssl">Alle SSL-Zertifikate erlauben</string>
+    <string name="settings_connection_ssl_info">HTTPS-Verbindungen akzeptieren, ohne das Serverzertifikat zu validieren</string>
+    <string name="settings_customization">Personalisierung</string>
+    <string name="settings_customization_theme">Dynamische Farben verwenden</string>
+    <string name="settings_customization_theme_info">Systemfarben auf die App anwenden</string>
+    <string name="settings_customization_theme_toast">Um die Änderungen wahrzunehmen, muss die App neu gestartet werden</string>
+    <string name="settings_customization_warnings">Warnungen anzeigen</string>
+    <string name="settings_customization_warnings_info">Auftretenden Warnungen anzeigen</string>
+    <string name="settings_customization_errors">Fehler anzeigen</string>
+    <string name="settings_customization_errors_info">Auftretende Fehler anzeigen</string>
+    <string name="settings_about">ÜVer</string>
+    <string name="settings_about_system">Weitere Infos</string>
+    <string name="settings_about_system_info">Öffne die App in den Systemeinstellungen</string>
+    <string name="settings_about_licenses">Verwendete Software</string>
+    <string name="settings_about_licenses_info">Alle verwendete Software von Drittanbietern anzeigen</string>
+    <string name="settings_info_version">Version {arg}</string>
+
+    <string name="url_title">Server URL bearbeiten</string>
+    <string name="url_input_server">Server URL</string>
+    <string name="url_info">Bearbeite die URL des Smart Home-Servers.</string>
+    <string name="url_error">Üngültige URL</string>
+    <string name="url_save_success">URL gespeichert</string>
+    <string name="url_save_error">URL kann nicht gespeichert werden</string>
+
+    <string name="cert_title">Client-Zertifikat bearbeiten</string>
+    <string name="cert_info">Bearbeite das Client-Zertifikat zur Authentifizierung.</string>
+    <string name="cert_error_invalid">Kein Zertifikat ausgewählt oder ungültiges Passwort eingegeben.</string>
+    <string name="cert_selected">Gültiges Zertifikat ausgewählt und gültiges Passwort eingegeben.</string>
+
+    <string name="licenses_title">Verwendete Software</string>
+
+    <string name="button_cancel">Abbrechen</string>
+    <string name="button_save">Speichen</string>
+    <string name="button_next">Weiter</string>
+    <string name="button_select_cert">Zertifikat auswählen</string>
+    <string name="button_select_other_cert">Anderes Zertifikat wählen</string>
+    <string name="button_remove_cert">Zertifikat löschen</string>
+    <string name="button_trust_cert">Vertrauen</string>
+
+    <string name="info_title_html_element_not_located">HTML-Element kann nicht erkannt werden</string>
+    <string name="info_title_no_milli_amp_information">Keine Ampere-Informationen</string>
+    <string name="info_title_loading_interruption">Abbruch des Ladevorgangs</string>
+    <string name="info_title_network_error">Netzwerkfehler</string>
+    <string name="info_title_http_error">HTTP-Fehler</string>
+    <string name="info_title_ssl_error">SSL-Fehler</string>
+    <string name="info_title_unknown_error">Unbekannter Fehler</string>
+    <string name="info_title_unknown_element">Unbekanntes Element</string>
+    <string name="info_title_unknown_room">Unbekannter Raum</string>
+    <string name="info_title_image">Grafik-Fehler</string>
+    <string name="info_title_unknown">Unbekannter Fehler</string>
+
+    <string name="car_details_subtext">Anklicken um weitere Details zu sehen</string>
+    <string name="car_main_text">{label}: {text}</string>
+    <string name="car_tab_home">Start</string>
+    <string name="car_tab_rooms">Räume</string>
+    <string name="car_reload">Laden</string>
+    <string name="car_reload_info">Anklicken, um Daten neu zu laden</string>
+</resources>
